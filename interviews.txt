@@ -1,0 +1,107 @@
+__Group1Interview1__
+__Question1d__
+Forgo local legal 
+Reduce operational barriers
+Adding power/influence/market share 
+Association with a multinational conglomerate
+User growth/expansion
+__Drivers__
+Non-human capital
+Brand Recognition
+New markets operation
+Competitive Advantage
+Globalization and consolidation
+Financing
+Filling in gaps in R&D
+Human capital
+__NewInterview__
+__Group1Interview2__
+__Question1d__
+Competitve edge 
+Recognition by assiciations
+Access to bigger audience
+__Drivers__
+New markets operation/Competitive Advantage
+Non-human capital/Filling in gaps in R&D
+Brand Recognition
+Financing
+Diversification
+Eliminate Competition
+__NewInterview__
+__Group1Interview3__
+__Question1d__
+Competitive edge 
+Positive association with a major player 
+Add to the existing technology 
+Being incorporatied into an existing known product 
+Opportunities for alternative uses 
+As an exit strategy rather than IPO
+__Drivers__
+Competitive Advantage
+Brand Recognition
+New markets operation
+Financing
+Globalization and consolidation
+Eliminate Competition
+Filling in gaps in R&D
+Non-human capital
+Human Capital
+Diversification
+__NewGroup__
+__Group2Interview4__
+__Question1d__
+Capitalisation, in the case of SMEs and underfunding in EE countries
+Recognition, esp applicable if the high tech and software industry if the acquirer is a well-known tech incumbent with hundreds of millions/billions users.
+Opportunities for later R&D
+__Drivers__
+New markets operation
+Financing
+Non-human capital/Filling in gaps in R&D
+Globalization and consolidation
+Human Capital
+Brand Recognition
+Competitive Advantage
+Diversification
+Eliminate Competition
+__NewInterview__
+__Group2Interview5__
+__Question1d__
+Capital fundraising 
+Proximity to needed physical and financial resources 
+Filling the gap in needed technology 
+Access to input resources 
+Positive association 
+Brand recognition
+Access to wider world customer groups 
+__Drivers__
+Financing
+Brand Recognition
+New markets operation/Globalization and consolidation
+Non-human capital
+Filling in gaps in R&D
+Competitive Advantage
+Human Capital
+Diversification
+Eliminate Competition
+__NewInterview__
+__Group2Interview6__
+__Question1d__
+Access to needed partnerships 
+Customers expansion 
+Growth expansion 
+Product diversification 
+Access to new geographical regions or segments 
+Recognition
+Alternative to IPO 
+Less perceived risk
+__Drivers__
+Brand Recognition
+Globalization and consolidation
+New markets operation
+Financing
+Non-human capital
+Filling in gaps in R&D
+Competitive Advantage
+Human Capital
+Diversification
+Eliminate Competition
