@@ -1,10 +1,12 @@
 __Group1Interview1__
 __Question1d__
-Forgo local legal 
+Eliminate local legal barriers
 Reduce operational barriers
-Adding power/influence/market share 
-Association with a multinational conglomerate
-User growth/expansion
+Market Influence
+Brand Recognition
+Positive Association
+User growth
+Expansion
 __Drivers__
 Non-human capital
 Brand Recognition
@@ -18,8 +20,10 @@ __NewInterview__
 __Group1Interview2__
 __Question1d__
 Competitve edge 
-Recognition by assiciations
-Access to bigger audience
+Brand Recognition  
+Positive Associations
+User growth
+Expansion
 __Drivers__
 New markets operation/Competitive Advantage
 Non-human capital/Filling in gaps in R&D
@@ -31,11 +35,11 @@ __NewInterview__
 __Group1Interview3__
 __Question1d__
 Competitive edge 
-Positive association with a major player 
-Add to the existing technology 
-Being incorporatied into an existing known product 
-Opportunities for alternative uses 
-As an exit strategy rather than IPO
+Positive Association
+Technological Complementaries
+Incorporation
+Opportunities for usage 
+Exit Strategy
 __Drivers__
 Competitive Advantage
 Brand Recognition
@@ -50,9 +54,11 @@ Diversification
 __NewGroup__
 __Group2Interview4__
 __Question1d__
-Capitalisation, in the case of SMEs and underfunding in EE countries
-Recognition, esp applicable if the high tech and software industry if the acquirer is a well-known tech incumbent with hundreds of millions/billions users.
-Opportunities for later R&D
+Capitalisation
+Fundraising
+Brand Recognition
+User Expansion
+Opportunities for R&D
 __Drivers__
 New markets operation
 Financing
@@ -66,12 +72,13 @@ Eliminate Competition
 __NewInterview__
 __Group2Interview5__
 __Question1d__
-Capital fundraising 
-Proximity to needed physical and financial resources 
-Filling the gap in needed technology 
-Access to input resources 
-Positive association 
-Brand recognition
+Capital 
+Fundraising 
+Proximity to resources 
+Filling technology gap 
+Access to Markets
+Positive Association 
+Brand Recognition
 Access to wider world customer groups 
 __Drivers__
 Financing
@@ -86,14 +93,14 @@ Eliminate Competition
 __NewInterview__
 __Group2Interview6__
 __Question1d__
-Access to needed partnerships 
+Access to partnerships 
 Customers expansion 
 Growth expansion 
-Product diversification 
-Access to new geographical regions or segments 
-Recognition
+Product Diversification 
+Access to Markets
+Brand Recognition
 Alternative to IPO 
-Less perceived risk
+Less risk
 __Drivers__
 Brand Recognition
 Globalization and consolidation
