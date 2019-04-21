@@ -12,9 +12,10 @@ Non-human capital
 Brand Recognition
 New markets operation
 Competitive Advantage
-Globalization and consolidation
-Financing
+Globalisation and consolidation
+Capital Opportunities
 Filling in gaps in R&D
+Diversification
 Human capital
 __NewInterview__
 __Group1Interview2__
@@ -25,12 +26,13 @@ Positive Associations
 User growth
 Expansion
 __Drivers__
+Brand Recognition
 New markets operation/Competitive Advantage
 Non-human capital/Filling in gaps in R&D
-Brand Recognition
-Financing
+Globalisation and consolidation
+Capital Opportunities
 Diversification
-Eliminate Competition
+Human Capital
 __NewInterview__
 __Group1Interview3__
 __Question1d__
@@ -44,9 +46,8 @@ __Drivers__
 Competitive Advantage
 Brand Recognition
 New markets operation
-Financing
-Globalization and consolidation
-Eliminate Competition
+Capital Opportunities
+Globalisation and consolidation
 Filling in gaps in R&D
 Non-human capital
 Human Capital
@@ -61,14 +62,13 @@ User Expansion
 Opportunities for R&D
 __Drivers__
 New markets operation
-Financing
+Capital Opportunities
 Non-human capital/Filling in gaps in R&D
-Globalization and consolidation
+Globalisation and consolidation
 Human Capital
 Brand Recognition
 Competitive Advantage
 Diversification
-Eliminate Competition
 __NewInterview__
 __Group2Interview5__
 __Question1d__
@@ -81,15 +81,14 @@ Positive Association
 Brand Recognition
 Access to wider world customer groups 
 __Drivers__
-Financing
+Capital Opportunities
 Brand Recognition
-New markets operation/Globalization and consolidation
+New markets operation/Globalisation and consolidation
 Non-human capital
 Filling in gaps in R&D
 Competitive Advantage
 Human Capital
 Diversification
-Eliminate Competition
 __NewInterview__
 __Group2Interview6__
 __Question1d__
@@ -103,12 +102,11 @@ Alternative to IPO
 Less risk
 __Drivers__
 Brand Recognition
-Globalization and consolidation
+Globalisation and consolidation
 New markets operation
-Financing
+Capital Opportunities
 Non-human capital
 Filling in gaps in R&D
 Competitive Advantage
 Human Capital
 Diversification
-Eliminate Competition
