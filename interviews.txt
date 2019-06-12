@@ -2,32 +2,33 @@ __Group1Interview1__
 __Question1d__
 Eliminate local legal barriers
 Reduce operational barriers
-Market Influence
+Access to technology
 Brand Recognition
 Positive Association
-User growth
-Expansion
+Access to Users 
+R&D Collaboration
+Capital Opportunities
 __Drivers__
 Non-human capital
+New markets operation/Filling in gaps in R&D
 Brand Recognition
-New markets operation
 Competitive Advantage
 Globalisation and consolidation
-Capital Opportunities
-Filling in gaps in R&D
 Diversification
+Capital Opportunities
 Human capital
 __NewInterview__
 __Group1Interview2__
 __Question1d__
 Competitve edge 
-Brand Recognition  
+Brand Recognition 
+Fill-in gaps in R&D
 Positive Associations
-User growth
-Expansion
+Access to markets
+Access to Users 
 __Drivers__
-Brand Recognition
-New markets operation/Competitive Advantage
+Competitive Advantage/Brand Recognition
+New markets operation
 Non-human capital/Filling in gaps in R&D
 Globalisation and consolidation
 Capital Opportunities
@@ -36,77 +37,115 @@ Human Capital
 __NewInterview__
 __Group1Interview3__
 __Question1d__
-Competitive edge 
-Positive Association
-Technological Complementaries
-Incorporation
+Positive Association/Brand Recognition
+Technological Complementarities
+Incorporation of resources
 Opportunities for usage 
 Exit Strategy
+Access to Users 
+Access to funds
 __Drivers__
-Competitive Advantage
-Brand Recognition
+Brand Recognition/Competitive Advantage
 New markets operation
-Capital Opportunities
-Globalisation and consolidation
 Filling in gaps in R&D
 Non-human capital
+Capital Opportunities
+Globalisation and consolidation
 Human Capital
 Diversification
-__NewGroup__
-__Group2Interview4__
+__NewInterview__
+__Group1Interview4__
 __Question1d__
-Capitalisation
+Access to Users 
+Competitive edge
+Access to Markets
+Opportunity for diversification
+Brand Recognition
+Opportunities for R&D 
+Capital Opportunities
+__Drivers__
+Brand Recognition
+New markets operation
+Filling in gaps in R&D
+Non-human capital
+Globalisation and consolidation
+Competitive Advantage
+Capital Opportunities
+Diversification
+Human Capital
+__NewGroup__
+__Group2Interview5__
+__Question1d__
 Fundraising
+Access to technologies
 Brand Recognition
 User Expansion
+Alternative usage of developed products/technologies
 Opportunities for R&D
 __Drivers__
 New markets operation
-Capital Opportunities
-Non-human capital/Filling in gaps in R&D
-Globalisation and consolidation
-Human Capital
+Non-human capital
+Filling in gaps in R&D
 Brand Recognition
+Capital Opportunities
 Competitive Advantage
+Globalisation and consolidation
 Diversification
+Human Capital
 __NewInterview__
-__Group2Interview5__
+__Group2Interview6__
 __Question1d__
-Capital 
 Fundraising 
 Proximity to resources 
-Filling technology gap 
+Filling technological gap 
 Access to Markets
-Positive Association 
+Diversification 
 Brand Recognition
 Access to wider world customer groups 
 __Drivers__
 Capital Opportunities
 Brand Recognition
-New markets operation/Globalisation and consolidation
-Non-human capital
+New markets operation/Non-human capital
 Filling in gaps in R&D
+Globalisation and consolidation
 Competitive Advantage
 Human Capital
 Diversification
 __NewInterview__
-__Group2Interview6__
+__Group2Interview7__
 __Question1d__
 Access to partnerships 
 Customers expansion 
 Growth expansion 
 Product Diversification 
 Access to Markets
-Brand Recognition
 Alternative to IPO 
-Less risk
+Competitive advantage
+Brand Recognition
 __Drivers__
 Brand Recognition
-Globalisation and consolidation
 New markets operation
 Capital Opportunities
-Non-human capital
-Filling in gaps in R&D
+Globalisation and consolidation
+Non-human capital/Filling in gaps in R&D
+Competitive Advantage
+Human Capital
+Diversification
+__NewInterview__
+__Group2Interview8__
+__Question1d__
+Access to markets 
+Customers base growth 
+Geographical expansion
+Access to capital
+Operational expansion
+R&D collaboration
+__Drivers__
+Brand Recognition
+New markets operation
+Non-human capital/Filling in gaps in R&D
+Capital Opportunities
+Globalisation and consolidation
 Competitive Advantage
 Human Capital
 Diversification
